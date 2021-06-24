@@ -108,4 +108,6 @@ Apache 2.0
 ### Buy me a beer (maybe)
 If you find this plugin useful, perhaps you can buy me a beer :)
 
+Credit to FortuneN
+
 [<img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png">](https://paypal.me/FortuneNgwenya)
